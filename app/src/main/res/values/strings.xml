@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search">Search</string>
+    <string name="hello_reviewer">Hello Reviewer!</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tabs_1">Followers</string>
+    <string name="tabs_2">Following</string>
+    <string name="detail_user">Detail User</string>
+    <string name="repository">Repository</string>
+    <string name="cari_pengguna">Cari Pengguna</string>
+    <string name="pengguna_tidak_di_temukan">Pengguna tidak di temukan</string>
+    <string name="sample">100</string>
+    <string name="build_with_kotlin_language">Build with Kotlin Language</string>
+</resources>
